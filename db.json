@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Mohamed",
+      "lastName": "Ghazal",
+      "email": "ghazal@mail.com",
+      "password": "123456"
+    },
+    {
+      "id": "03ae",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "ddfd",
+      "firstName": "mohamed",
+      "lastName": "gamil",
+      "email": "ghazal@email.com",
+      "password": "اثممخ2020"
+    },
+    {
+      "id": "009e",
+      "firstName": "omar",
+      "lastName": "mohamed",
+      "email": "omar@email.com",
+      "password": "omar3000300"
+    },
+    {
+      "id": "a750",
+      "firstName": "ahmed",
+      "lastName": "elghonemy",
+      "email": "example@gmail.com",
+      "password": "elghonemy3010"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "content": "the new post",
+      "createdAt": "2025-05-20T14:00:00Z"
+    }
+  ]
+}
